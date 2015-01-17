@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Maxim Kriat",
+    "coach": true,
+    "sportsmen": true,
+    "expertize": {
+      "swim": true,
+      "bike": true,
+      "run": true
+      },
+    "photo": "'img/users/kriat.jpg'"
+  },
+  {
+    "name": "Andrey Glushchenko",
+    "coach": true,
+    "sportsmen": false,
+    "expertize": {
+      "swim": true,
+      "bike": false,
+      "run": false
+    },
+    "photo": "'img/users/glushchenko.jpg'"
+  },
+  {
+    "name": "Vladimir Nikolayev",
+    "coach": false,
+    "sportsmen": true,
+      "expertize": {
+        "swim": false,
+        "bike": false,
+        "run": false
+      },
+    "photo": "'img/users/nikolayev.jpg'"
+  }
+]
