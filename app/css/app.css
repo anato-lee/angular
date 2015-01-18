@@ -1,1 +1,12 @@
 /* app css stylesheet */
+.users ul{
+	list-style: none;
+}
+
+.users ul li{
+	margin: 10px;
+} 
+
+.users ul img{
+	height: 100px;
+}

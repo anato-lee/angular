@@ -1,6 +1,7 @@
 [
   {
-    "name": "Maxim Kriat",
+    "firstName": "Maxim",
+    "lastName": "Kriat",
     "coach": true,
     "sportsmen": true,
     "expertize": {
@@ -8,10 +9,11 @@
       "bike": true,
       "run": true
       },
-    "photo": "'img/users/kriat.jpg'"
+    "photo": "img/users/kriat.png"
   },
   {
-    "name": "Andrey Glushchenko",
+    "firstName": "Viktor",
+    "lastName": "Zemtsev",
     "coach": true,
     "sportsmen": false,
     "expertize": {
@@ -19,10 +21,11 @@
       "bike": false,
       "run": false
     },
-    "photo": "'img/users/glushchenko.jpg'"
+    "photo": "img/users/zemtsev.png"
   },
   {
-    "name": "Vladimir Nikolayev",
+    "firstName": "Vladimir",
+    "lastName": "Nikolayev",
     "coach": false,
     "sportsmen": true,
       "expertize": {
@@ -30,6 +33,6 @@
         "bike": false,
         "run": false
       },
-    "photo": "'img/users/nikolayev.jpg'"
+    "photo": "img/users/nikolayev.png"
   }
 ]
